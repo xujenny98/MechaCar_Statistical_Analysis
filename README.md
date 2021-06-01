@@ -39,7 +39,7 @@
 <img width="625" alt="Screen Shot 2021-06-01 at 12 19 25 AM" src="https://user-images.githubusercontent.com/77771292/120267170-6e25dc00-c271-11eb-85ef-5825fcb186ba.png">
 <br/>lot 3
 <br/>The p value is 0.1589 which is greater than 0.05 and is therfore not significant so the null hypothesis can be accepted
-<img width="636" alt="Screen Shot 2021-06-01 at 12 19 35 AM" src="https://user-images.githubusercontent.com/77771292/120267207-7e3dbb80-c271-11eb-8d9e-f7592b2e7075.png">
+<br/><img width="636" alt="Screen Shot 2021-06-01 at 12 19 35 AM" src="https://user-images.githubusercontent.com/77771292/120267207-7e3dbb80-c271-11eb-8d9e-f7592b2e7075.png">
 
 ## MechaCar vs Competition
 <br/>The various comparable factors that MechaCar can perform against the competition would be cost,highway fuel efficiency, horse power, maintenance cost,seating capacity,PSI, mpg,ground clearence,fuel type,safety rating etc.
